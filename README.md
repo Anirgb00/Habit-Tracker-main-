@@ -4,9 +4,8 @@
 
  Webiste Images : 
  
-![Home Page ](https://github.com/Ashish5692/Habit-Tracker/assets/92576127/ead5a670-3f1b-4930-aae3-cd9450c00407)
+![Home Page ](https://deft-taiyaki-930269.netlify.app/)
 
-![TrackingPage](https://github.com/Ashish5692/Habit-Tracker/assets/92576127/ddafbfc6-b8fe-42fa-b091-3d51ba6970f5)
 
 
 
