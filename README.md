@@ -2,9 +2,13 @@
 
  Hosted Link :https://deft-taiyaki-930269.netlify.app/
 
- Webiste Images : 
- 
+Commands to follow
 
+npm i
+git init
+git branch -M main
+git remote add origin https://github.com/Anirgb00/Habit-Tracker-main-.git
+git push -u origin main 
 
 
 
