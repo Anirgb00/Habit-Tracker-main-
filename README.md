@@ -2,6 +2,13 @@
 
  Hosted Link :https://deft-taiyaki-930269.netlify.app/
 
+
+ 
+C:\Users\HP\Desktop\Habit-Tracker-main (1)\Habit-Tracker-main>code .
+
+C:\Users\HP\Desktop\Habit-Tracker-main (1)\Habit-Tracker-main>
+
+
 Commands to follow
 
 npm i
